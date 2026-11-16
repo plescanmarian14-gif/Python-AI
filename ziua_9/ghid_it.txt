@@ -1,0 +1,7 @@
+Resetare parolă: Dacă ai uitat parola contului de Windows sau email, accesează portalul reset.companie.ro sau sună la interiorul 404 pentru deblocare.
+
+Conectare VPN: Pentru munca de acasă (remote), deschide aplicația Cisco AnyConnect, introdu adresa vpn.companie.ro și confirmă notificarea din aplicația Microsoft Authenticator.
+
+Imprimantă & Scanare: Imprimanta de la etajul 2 folosește codul PIN 1234 pentru eliberarea documentelor. Dacă s-a blocat hârtia, deschide capacul lateral dreapta.
+
+Echipament defect: Pentru înlocuirea unui laptop stricat, a unui mouse sau a tastaturii, depune un tichet în platforma Jira la secțiunea Hardware.
